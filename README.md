@@ -25,7 +25,7 @@ A lightweight NLoS fire detection system based on Wi-Fi sensing, designed for ea
 - **Baselines**: Outperforms representative traditional and lightweight deep learning baselines under the same MCU deployment.
 - **Temperature Robustness**: Stable recognition performance under low-, normal-, and high-temperature conditions, with noticeable degradation when correlation features are removed.
 
-## Advantages
+# Advantages
 
 - **Cross-Obstacle Coverage** beyond LoS sensors.
 - **Lower Cost** by reusing existing Wi-Fi infrastructure.
