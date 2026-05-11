@@ -1,6 +1,6 @@
 # Overview
 
-A lightweight NLoS fire detection system based on Wi-Fi sensing, designed for early fire warning in high-rise buildings. It jointly uses CSI and RSS from commercial Wi-Fi to perceive fire-induced signal variations across walls and floors, and runs entirely on a resource-constrained STM32 MCU. An SNR-based subcarrier selection strategy and a subcarrier differencing correlation feature are introduced to suppress temperature drift and reduce computational cost
+A lightweight NLoS fire detection system based on Wi-Fi sensing, designed for early fire warning in high-rise buildings. It jointly uses CSI and RSS from commercial Wi-Fi to perceive fire-induced signal variations across walls and floors, and runs entirely on a resource-constrained STM32 MCU. An SNR-based subcarrier selection strategy and a subcarrier differencing correlation feature are introduced to suppress temperature drift and reduce computational cost.
 
 # Highlights
 
