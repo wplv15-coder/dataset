@@ -18,7 +18,7 @@ A lightweight NLoS fire detection system based on Wi-Fi sensing, designed for ea
 - **Drift Suppression**: Subcarrier differencing cancels the common drift term shared across subcarriers.
 - **Attention Fusion + MLP**: An attention module adaptively weights RSS, amplitude, and correlation features; an MLP outputs the four classes via Softmax.
 
-# Experimrntal Setup
+# Experimental Setup
 
 - **Platform**: ESP32 + STM32, connected via UART.
 - **Scenarios**: Through-wall, corridor, and cross-floor NLoS environments.
