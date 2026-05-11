@@ -20,7 +20,7 @@ A lightweight NLoS fire detection system based on Wi-Fi sensing, designed for ea
 
 # Experimrntal Setup
 
-- **Platform**: ESP32 (acquisition) + STM32 (inference), connected via UART.
+- **Platform**: ESP32 + STM32, connected via UART.
 - **Scenarios**: Through-wall, corridor, and cross-floor NLoS environments.
 - **Baselines**: Outperforms representative traditional and lightweight deep learning baselines under the same MCU deployment.
 - **Temperature Robustness**: Stable recognition performance under low-, normal-, and high-temperature conditions, with noticeable degradation when correlation features are removed.
